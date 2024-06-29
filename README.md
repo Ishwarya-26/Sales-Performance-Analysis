@@ -39,4 +39,4 @@ Average Order Value (AOV) = AVERAGEX(sales_data_sample, sales_data_sample[QUANTI
 Total Sales Revenue = SUMX(sales_data_sample, sales_data_sample[QUANTITY ORDERED] * sales_data_sample[PRICE EACH])
 
 ## Conclusion
-With these insights,company can implement strategies to increase overall sales by 30%.
+With these insights,company can implement strategies to increase overall sales.
